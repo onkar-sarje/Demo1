@@ -1,0 +1,17 @@
+Should be able to scroll down to Easily Recharge section
+    [Documentation]    This is Test 2
+    [Tags]    Test 2
+    log    Scrolled down to Easily Recharge section
+    Sleep    2s
+
+Should be able to click on Recharge button and enter mobile no.
+    [Documentation]    This is Test 3
+    [Tags]    Test 3
+
+Should be able to view all plans
+    [Documentation]    This is Test 4
+    [Tags]    Test 4
+
+Should be able to buy a plan
+    [Documentation]    This is Test 5
+    [Tags]    Test 5
